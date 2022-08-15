@@ -1,0 +1,98 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 12 May, 2022, 3:08:29 PM
+    Author     : Stuti
+*/
+
+ .dropdown :hover.dropdown-menu{
+    display: block;
+}
+
+.navbar{
+    border-bottom: 1px solid #adb5bd;
+    width: 100%;
+}
+
+.nav-link{
+    color: black ! important;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+#home{
+    
+    border-radius: 20px;
+    padding: 0.2rem 1rem! important;
+    line-height: 30px;
+}
+#home:hover{
+    border: 2px solid black ;
+    background:  #FF8C8C ! important;
+    
+}
+#about{   
+    border-radius: 20px;
+    padding: 0.2rem 1rem! important;
+    line-height: 30px;
+}
+#about:hover{
+    border: 2px solid black ; 
+    background:  #FF8C8C ! important;
+}
+
+#services{   
+    border-radius: 20px;
+    padding: 0.2rem 1rem! important;
+    line-height: 30px;
+}
+#services:hover{
+    border: 2px solid black ;
+    background:  #FF8C8C ! important;
+    
+}
+#vendors{   
+    border-radius: 20px;
+    padding: 0.2rem 1rem! important;
+    line-height: 30px;
+}
+#vendors:hover{
+    border: 2px solid black ; 
+    background:  #FF8C8C ! important;
+}
+
+#shop{
+    
+    border-radius: 20px;
+    padding: 0.2rem 1rem! important;
+    line-height: 30px;
+}
+#shop:hover{
+    border: 2px solid black ; 
+    background:  #FF8C8C ! important;
+    
+}
+#login{   
+    border-radius: 20px;
+    padding: 0.2rem 1rem! important;
+    line-height: 30px;
+}
+#login:hover{
+    border: 2px solid black ; 
+    background:  #FF8C8C ! important;
+}
+
+.listing .h6{
+    text-align: left;    
+}
+.listing li{
+    text-align: left;
+    
+}
+.banner img{
+    width:100%;
+    height:60vh;
+    
+}

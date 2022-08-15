@@ -1,0 +1,62 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 16 May, 2022, 3:58:44 PM
+    Author     : Stuti
+*/
+
+h1{
+    text-align: center;
+}
+.card{
+    height:100%;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    margin:  8px ;
+}
+.card-text p{
+    text-align: right;
+}
+input[type=text],input[type=password]{
+   width: 100%;
+   height:40px;
+   margin:8px 0;
+   padding:12px 20px;
+   display: inline-block;
+}
+   
+.loginusing{
+    align-items: center;
+}
+
+.wrap h6{
+    text-align: center;
+}
+.social-media button{
+    margin-left: 16px;
+    padding: 5px;
+    width: 45%;
+    box-sizing:border-box;
+    border: 1px solid grey;
+    font-size: 1.3rem;
+    border-radius: 0px;
+    font-weight: 400;
+}
+.social-media button a{
+    text-decoration: none;
+    color: black;
+    
+}
+.social-media button:hover{
+    background: limegreen;
+   
+}
+
+
+
+
